@@ -11,9 +11,9 @@ https://fabricmc.net/
 
 Ресурс паки:
 
-- [U_RP](https://github.com/UniverseMCGit/unipacks/raw/main/Java/resourcepacks/U_RP.zip) - Работает с Optifine или CIT Resewn
+- [U_RP](https://github.com/universemcapp/unipacks/raw/main/Java/resourcepacks/U_RP.zip) - Работает с Optifine или CIT Resewn
 
-- [Icons+](https://github.com/UniverseMCGit/unipacks/raw/main/Java/resourcepacks/Icons%2B.zip) - Добавляет иконки в меню и зачарованиях
+- [Icons+](https://github.com/universemcapp/unipacks/raw/main/Java/resourcepacks/Icons%2B.zip) - Добавляет иконки в меню и зачарованиях
 
 API_Architectury - библиотека для LightOverlay
 
