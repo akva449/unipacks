@@ -5,9 +5,9 @@ Java:
 
 Версия: Fabric 1.18.1
 
-Fabric Loader 0.12.12 или выше
+Fabric Loader 0.13.1 или выше
 
-https://fabricmc.net/
+https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.exe
 
 Ресурс паки:
 
