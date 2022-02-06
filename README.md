@@ -5,7 +5,7 @@ Java:
 
 Версия: Fabric 1.18.1
 
-Fabric Loader 1.12.12 или выше
+Fabric Loader 0.12.12 или выше
 
 https://fabricmc.net/
 
