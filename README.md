@@ -1,6 +1,9 @@
 # unipacks
 Клиентский модпак сервера Universe
 
+Скачать готовую лайт версию:
+https://github.com/universemcapp/unipacks/releases/download/1.1/UniPacks.1.1.Fabric-1.18.zip
+
 Java:
 
 Версия: Fabric 1.18.1
